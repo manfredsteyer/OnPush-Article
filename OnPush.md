@@ -1,4 +1,4 @@
-# Performance tuning for Angular's Data Binding with OnPush, Immutables and Observables
+# Performance tuning Data Binding in Angular with OnPush, Immutables and Observables
  
 Immutables and observables help the Angular change-tracking mechanism to identify components which have GUIs in need of updating. This enables an SPA to exclude unchanged components from change tracking which in turn drastically enhances performance.  
  
